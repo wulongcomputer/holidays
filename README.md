@@ -1,2 +1,2 @@
 # holidays
-用来Go 的Demo ，一个查询假期的API
+用来学习Go的Demo ，编写一个可查询假期的API
